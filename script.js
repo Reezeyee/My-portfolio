@@ -114,8 +114,41 @@ document.addEventListener('DOMContentLoaded', () => {
         'Structured Schema.org local business metadata for search optimization.',
         'Deployed live on Vercel with clean responsive layouts.'
       ],
-      github: 'https://github.com/Reezeyee',
+      github: 'https://github.com/Reezeyee/Common-Grind',
       demo: 'https://common-grind.vercel.app/'
+    },
+    clove: {
+      title: 'Clove Coffee Shop',
+      summary: 'A multiroaster specialty coffee bar web application located on Rue Chappe in Montmartre, Paris. Founded by Ella Fatima McElroy and Florent Marcault.',
+      highlights: [
+        'Built with Vite, React, and Google Fonts (Fraunces & Work Sans).',
+        'Minimalist Parisian coffee house aesthetic and bean origin listings.',
+        'Optimized for fast rendering and mobile touch interactions.'
+      ],
+      github: 'https://github.com/Reezeyee/Clove',
+      demo: 'https://clove-coffee.vercel.app/'
+    },
+    manchester: {
+      title: 'Manchester Barbershop',
+      summary: 'A traditional barbering web application for Manchester Barbershop in East Manchester, PA. Serving classic cuts, hot towel shaves, and beard trims since 2015.',
+      highlights: [
+        'Built with Vite, React, and custom responsive CSS grid layout.',
+        'Mobile navigation menu toggle and interactive service menu tabs.',
+        'Deployed live on Vercel with custom single-page rewrites.'
+      ],
+      github: 'https://github.com/Reezeyee/Manchester-Barbershop',
+      demo: 'https://manchester-barbershop.vercel.app/'
+    },
+    oltime: {
+      title: "Ol' Time Barber Shop",
+      summary: "A classic barber shop web application built for Ol' Time Barber Shop in Woodstock, GA. Features traditional cuts, straight razor shaves, and family shop vibes.",
+      highlights: [
+        'Built with Vite, React, and Google Web Fonts (Bevan & Vollkorn).',
+        'Embedded interactive Google Maps section for local direction navigation.',
+        'Responsive service cards and mobile-friendly touch interface.'
+      ],
+      github: 'https://github.com/Reezeyee/Ol-Time-Barbershop',
+      demo: 'https://ol-time-barbershop.vercel.app/'
     },
     shakebops: {
       title: 'Shake & Bops Botanical Cafe',
