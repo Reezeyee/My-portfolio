@@ -150,6 +150,17 @@ document.addEventListener('DOMContentLoaded', () => {
       github: 'https://github.com/Reezeyee/Ol-Time-Barbershop',
       demo: 'https://ol-time-barbershop.vercel.app/'
     },
+    oldhabits: {
+      title: 'Old Habits Barbershop',
+      summary: 'A premier classic & modern barbershop web application for Old Habits Barbershop at Boni Ave corner Sikap, Mandaluyong City.',
+      highlights: [
+        'Built with Vite, React, and Schema.org HairSalon structured metadata.',
+        'Service menus for haircuts, hot towel shaves, hair coloring, and beard grooming.',
+        'Social media integrations, opening hours specs, and local search optimization.'
+      ],
+      github: 'https://github.com/Reezeyee/oldhabitsbarbershop',
+      demo: 'https://oldhabitsbarbershop.vercel.app/'
+    },
     shakebops: {
       title: 'Shake & Bops Botanical Cafe',
       summary: 'A cozy botanical coffee shop web application in Leesburg, Virginia serving specialty coffee, handcrafted teas, local pastries, and houseplant sanctuary UI aesthetics.',
